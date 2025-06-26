@@ -2,7 +2,12 @@
 
 A modern and responsive **school website template** built using **HTML and CSS**. This project is perfect for **beginners** looking to learn the basics of web design and layout. It can be easily customized for any educational institution.
 
-![screenshot](preview.png) <!-- Replace with your actual screenshot image filename -->
+![screenshot] 
+<!-- Uploading "School.1.png"... -->
+<!-- Uploading "School.2.png"... -->
+<!-- Uploading "School.3.png"... -->
+<!-- Uploading "School.4.png"... -->
+<!-- Uploading "School.5.png"... -->
 
 ---
 
